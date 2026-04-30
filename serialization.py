@@ -25,7 +25,7 @@ temp2=patient1.model_dump_json(exclude=['name', 'gender', 'age'])    #dumps whol
 print(temp)
 print(type(temp))
 print(temp2)
-print(type(temp))
+print(type(temp2))
 
 
 
